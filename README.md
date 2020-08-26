@@ -1,7 +1,7 @@
 # YelpCamp
 YelpCamp is a project that was completed as a part of [Colt Steele's Web Development Bootcamp course (Udemy)](https://www.udemy.com/course/the-web-developer-bootcamp/).
 
-## Description
+## Overview
 In this website, Users can create new campgrounds and comment and rate other's campgrounds.
 YelpCamp is based on the popular Yelp.com , the difference being it focuses on the campgrounds that any host/owner can post for the users across the globe to check and review.
 
@@ -15,7 +15,6 @@ https://yelpcamp-heroku-2020.herokuapp.com/
 - All the data will pe persistent and is stored in the awazon cloud.
 
 ## Technologies Used:
-
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -41,7 +40,6 @@ https://yelpcamp-heroku-2020.herokuapp.com/
 - **PassportJS** - authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application  
 - **Data Associations** - associating user data with the respective campgrounds and comments using reference method  
 - **Heroku** - cloud platform as a service used as a web application deployment model  
-
 
 ## Homepage
 Changing background that fades away making space for a new background to show.
