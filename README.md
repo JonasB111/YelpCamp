@@ -44,8 +44,11 @@ https://yelpcamp-heroku-2020.herokuapp.com/
 ## Homepage
 Changing background that fades away making space for a new background to show.
 
+![Alt text](images/landing_2.png?raw=true)
+![Alt text](images/landing_1.png?raw=true)
+
 ## Show all Campgrounds
-![Alt text](images/campgrounds.png?raw=true) 
+![Alt text](images/all_campgrounds.png?raw=true) 
 
 ## Selected Campground
 ![Alt text](images/selected_campground.png?raw=true)  
@@ -57,10 +60,10 @@ Changing background that fades away making space for a new background to show.
 ![Alt text](images/login.png?raw=true)  
 
 ## Add new campground
-![Alt text](images/addnewcampground.png?raw=true)  
+![Alt text](images/new_campground.png?raw=true)  
 
 ## Add new comment
-![Alt text](images/addnewcomment.png?raw=true)  
+![Alt text](images/new_comment.png?raw=true)  
 
  
 
