@@ -47,11 +47,20 @@ Changing background that fades away making space for a new background to show.
 ![Alt text](images/landing_2.png?raw=true)
 ![Alt text](images/landing_1.png?raw=true)
 
+<br/><br/>
+
+
 ## Show all Campgrounds
 ![Alt text](images/all_campgrounds.png?raw=true) 
 
+<br/><br/>
+
+
 ## Selected Campground
 ![Alt text](images/selected_campground.png?raw=true)  
+
+<br/><br/>
+
 
 ## Sign Up
 ![Alt text](images/signup.png?raw=true)  
@@ -61,6 +70,8 @@ Changing background that fades away making space for a new background to show.
 
 ## Add new campground
 ![Alt text](images/new_campground.png?raw=true)  
+
+<br/><br/>
 
 ## Add new comment
 ![Alt text](images/new_comment.png?raw=true)  
