@@ -67,8 +67,6 @@ router.get("/:id/edit", middleware.checkCampgroundOwnership, function(req, res) 
 	Campground.findById(req.params.id, function(err, foundCampground) {
 		res.render("campgrounds/edit", { campground: foundCampground });
 	});
-	// otherwise redirect
-	// if not redirect
 });
 
 // UPDATE - send campground edit form data to database

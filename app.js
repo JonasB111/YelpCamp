@@ -41,8 +41,6 @@ app.use(methodOverride("_method")); // rekomenduoja docsuose nurodyt _method
 app.use(flash()); // flash messages
 // seedDB();
 
-// nurodo kad kiekvienam route, perduoti į ejs kintamąjį currentUser kuris turi req.user duomenis.
-
 // Passport configuration
 app.use(
 	require("express-session")({
@@ -59,6 +57,7 @@ passport.use(new LocalStrategy(User.authenticate()));
 passport.serializeUser(User.serializeUser());
 passport.deserializeUser(User.deserializeUser());
 
+// nurodo kad kiekvienam route, perduoti į ejs kintamąjį currentUser kuris turi req.user duomenis.
 app.use(function(req, res, next) {
 	res.locals.currentUser = req.user;
 	res.locals.error = req.flash("error");
@@ -73,6 +72,7 @@ app.use("/campgrounds/:id/comments", commentRoutes);
 
 app.listen(process.env.PORT, process.env.IP);
 
+// for localhost deploy
 // app.listen(3000, function() {
 // 	console.log("YelpCamp server has started.");
 // });
