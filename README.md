@@ -2,10 +2,10 @@
 YelpCamp is a project that was completed as a part of [Colt Steele's Web Development Bootcamp course (Udemy)](https://www.udemy.com/course/the-web-developer-bootcamp/).
 
 ## Overview
-In this website, Users can create new campgrounds and comment and rate other's campgrounds.
-YelpCamp is based on the popular Yelp.com , the difference being it focuses on the campgrounds that any host/owner can post for the users across the globe to check and review.
+In this website, Users can create new campgrounds and comment other's campgrounds.
+YelpCamp is based on the popular Yelp.com, the difference being it focuses on the campgrounds that any host/owner can post for the users across the globe to check and review.
 
-The application is hosted on heroku and can be accessed at the below web address  
+The application is hosted on heroku and can be accessed at the web address below:  
 https://yelpcamp-heroku-2020.herokuapp.com/
 
 ## Functionalities
